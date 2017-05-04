@@ -13,7 +13,6 @@ while True:
         print('Stick around to check out the food blog!💃🏻')
         import webbrowser
         import time
-        
         time.sleep(2)
         webbrowser.open('http://www.sproutedkitchen.com/recipes/')
         break
