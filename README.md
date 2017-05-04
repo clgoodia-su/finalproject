@@ -1,5 +1,7 @@
 # finalproject
-Food Analyzer. Group members: Carrie Goodian, Aaron Duke, Noah Marinelli
+#Food Analyzer. Group members: Carrie Goodian, Aaron Duke, Noah Marinelli
+
+
 from nutritionix import Nutritionix
 nix = Nutritionix(app_id="557650c9", api_key="b3c987d0bdb894c210751635b54c082d")
 
